@@ -8,7 +8,13 @@ This workshop introduces learners to the automatic text recognition (ATR) tool s
 
 The workshop will briefly introduce ATR and its capabilities and limitations. Afterwards, learners will be introduced to Loghi's command-line interface, and we will practice using a previously trained model to recognise text, prepare our data for training, and utilise it to train a new model.
 
-Registration for the in-person workshop is available via: [https://www.ub.uio.no/english/libraries/dsc/berut/events/workshops/2024-06-11-workshop_1.html](https://www.ub.uio.no/english/libraries/dsc/berut/events/workshops/2024-06-11-workshop_1.html)
+## When & Where? 
+
+2024-06-11 at University of Oslo
+
+More details and registration for the in-person workshop is available via: [https://www.ub.uio.no/english/libraries/dsc/berut/events/workshops/2024-06-11-workshop_1.html](https://www.ub.uio.no/english/libraries/dsc/berut/events/workshops/2024-06-11-workshop_1.html)
+
+
 
 ## Setup Instructions
 _Installation instructions and related pieces of information will be added below in due time._
