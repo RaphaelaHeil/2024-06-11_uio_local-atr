@@ -14,6 +14,19 @@ The workshop will briefly introduce ATR and its capabilities and limitations. Af
 
 More details and registration for the in-person workshop is available via: [https://www.ub.uio.no/english/libraries/dsc/berut/events/workshops/2024-06-11-workshop_1.html](https://www.ub.uio.no/english/libraries/dsc/berut/events/workshops/2024-06-11-workshop_1.html)
 
+## Preliminary Lesson Plan
+_Please note that the lesson plan may still undergo changes until 1-2 weeks before the workshop._
+
+0. Welcome and introductions
+1. Introduction to Automatic Text Recognition (ATR)
+2. Setting up _Loghi_ with Docker
+3. Using a pre-trained model to recognise text
+4. Break
+5. Creating training data from existing annotations
+6. Training and using a small custom model
+7. Final questions and wrapping up
+
+
 
 
 ## Setup Instructions
