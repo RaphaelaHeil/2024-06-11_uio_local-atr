@@ -4,15 +4,18 @@
 
 layout: home
 ---
+
+# :warning: This workshop has been postponed until autumn 2024. A new announcement will be posted on the [BærUt website](https://www.ub.uio.no/english/libraries/dsc/berut/) as soon as all details have been finalised :warning:
+
 This workshop introduces learners to the automatic text recognition (ATR) tool suite "[Loghi](https://github.com/knaw-huc/loghi)". This collection of tools can be used locally, i.e., without uploading data to a foreign server or a cloud service, which may not be an option for projects with stricter data protection guidelines.
 
 The workshop will briefly introduce ATR and its capabilities and limitations. Afterwards, learners will be introduced to Loghi's command-line interface, and we will practice using a previously trained model to recognise text, prepare our data for training, and utilise it to train a new model.
 
 ## When & Where? 
 
-2024-06-11 at University of Oslo
+~2024-06-11 at University of Oslo~
 
-More details and registration for the in-person workshop is available via: [https://www.ub.uio.no/english/libraries/dsc/berut/events/workshops/2024-06-11-workshop_1.html](https://www.ub.uio.no/english/libraries/dsc/berut/events/workshops/2024-06-11-workshop_1.html)
+~More details and registration for the in-person workshop is available via: [https://www.ub.uio.no/english/libraries/dsc/berut/events/workshops/2024-06-11-workshop_1.html](https://www.ub.uio.no/english/libraries/dsc/berut/events/workshops/2024-06-11-workshop_1.html)~
 
 ## Preliminary Lesson Plan
 _Please note that the lesson plan may still undergo changes until 1-2 weeks before the workshop._
