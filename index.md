@@ -5,7 +5,7 @@
 layout: home
 ---
 
-# :warning: This workshop has been postponed until autumn 2024. A new announcement will be posted on the [BærUt website](https://www.ub.uio.no/english/libraries/dsc/berut/) as soon as all details have been finalised :warning:
+## :warning: This workshop has been postponed until autumn 2024. A new announcement will be posted on the [BærUt website](https://www.ub.uio.no/english/libraries/dsc/berut/) as soon as all details have been finalised :warning:
 
 This workshop introduces learners to the automatic text recognition (ATR) tool suite "[Loghi](https://github.com/knaw-huc/loghi)". This collection of tools can be used locally, i.e., without uploading data to a foreign server or a cloud service, which may not be an option for projects with stricter data protection guidelines.
 
